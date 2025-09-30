@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "timer_library")(type "KiCad")(uri "${KIPRJMOD}/timer_library.kicad_sym")(options "")(descr ""))
+)
