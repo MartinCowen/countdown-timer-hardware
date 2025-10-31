@@ -24,3 +24,6 @@ PCB with black solder mask, white silkscreen, cutouts for displays, LEDs, button
  - optional: Display filter material, 40x100mm, < 1mm thick.
  - for programming: STLINK-V3MINIE with ribbon cable from [STM32C0316-DK](https://www.st.com/en/evaluation-tools/stm32c0316-dk.html)
  - for programming: USB C cable to your laptop (USB C or USB A) from the STLINK
+
+## Firmware
+[Firmware in C for STM32C031C6](https://github.com/MartinCowen/countdown-timer-firmware) built in STM32CubeIDE
